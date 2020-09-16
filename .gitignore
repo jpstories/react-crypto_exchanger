@@ -1,0 +1,7 @@
+# комментарий
+# *.a
+# !lib.a
+# /TODO
+# build/
+# doc/*.txt
+/node_modules
