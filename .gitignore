@@ -5,3 +5,6 @@
 # build/
 # doc/*.txt
 /node_modules
+
+#git reset --hard master
+#git checkout hash
